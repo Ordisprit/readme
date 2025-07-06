@@ -10,7 +10,7 @@ Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 
 - Privacy-first architecture  
 - Built on Solana blockchain  
-- Off-chain encrypted data storage (IPFS/Arweave)  
+- Off-chain encrypted data storage (IPFS)  
 - Only users can decrypt their data  
 - Optional token-based premium features  
 
