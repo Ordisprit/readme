@@ -1,1 +1,25 @@
-# readme
+# Ordisprit
+
+![Ordisprit Logo](./logo.png)
+
+**Ordisprit** is a privacy-focused protocol built on Solana, with a unique off-chain encryption system for personal data.
+
+Visit the live site: [ordisprit.fun](https://ordisprit.fun)
+
+## Features
+
+- Privacy-first architecture  
+- Built on Solana blockchain  
+- Off-chain encrypted data storage (IPFS/Arweave)  
+- Only users can decrypt their data  
+- Optional token-based premium features  
+
+## Coming Soon
+
+- Web3 login  
+- User dashboard  
+- Developer SDK  
+
+## License
+
+MIT # readme
