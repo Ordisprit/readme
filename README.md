@@ -1,6 +1,6 @@
 # Ordisprit
 
-![Ordisprit Logo](https://github.com/Ordisprit/readme/blob/main/6001223615493817973%20(2).jpg)
+![Ordisprit Logo](https://github.com/Ordisprit/readme/blob/main/6001223615493817973.jpg)
 
 **Ordisprit** is a privacy-focused protocol built on Solana, with a unique off-chain encryption system for personal data.
 
