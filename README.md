@@ -23,3 +23,6 @@ Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 ## License
 
 MIT # readme
+---
+
+## Installation (Coming for developers)
