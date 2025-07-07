@@ -6,6 +6,8 @@
 
 Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 
+---
+
 ## Features
 
 Privacy-first architecture  
@@ -13,6 +15,8 @@ Built on Solana blockchain
 Off-chain encrypted data storage (IPFS)  
 Only users can decrypt their data  
 Optional token-based premium features  
+
+---
 
 ## Coming Soon
 
@@ -24,16 +28,23 @@ Developer SDK
 
 ## Contributing
 
-We welcome contributions! Feel free to open issues for bugs or feature requests
+We welcome contributions! Feel free to open issues for bugs or feature requests.
+
+---
 
 ## Contact
 
 For questions or support, please reach out to us on [Twitter](https://x.com/ordispritdotfun).  
 Currently, we do not provide email or other contact options. Join our waitlist via the app for updates.
 
-## Installation 
-(Coming for developers)
+---
+
+## Installation
+
+*(Coming soon for developers)*
+
+---
 
 ## License
 
-MIT # readme
+MIT License
