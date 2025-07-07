@@ -8,17 +8,17 @@ Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 
 ## Features
 
-- Privacy-first architecture  
-- Built on Solana blockchain  
-- Off-chain encrypted data storage (IPFS)  
-- Only users can decrypt their data  
-- Optional token-based premium features  
+Privacy-first architecture  
+Built on Solana blockchain  
+Off-chain encrypted data storage (IPFS)  
+Only users can decrypt their data  
+Optional token-based premium features  
 
 ## Coming Soon
 
-- Web3 login  
-- User dashboard  
-- Developer SDK  
+Web3 login  
+User dashboard  
+Developer SDK  
 
 ---
 
