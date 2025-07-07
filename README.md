@@ -25,4 +25,5 @@ Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 MIT # readme
 ---
 
-## Installation (Coming for developers)
+## Installation 
+(Coming for developers)
