@@ -20,10 +20,20 @@ Visit the live site: [ordisprit.fun](https://ordisprit.fun)
 - User dashboard  
 - Developer SDK  
 
-## License
-
-MIT # readme
 ---
+
+## Contributing
+
+We welcome contributions! Feel free to open issues for bugs or feature requests
+
+## Contact
+
+For questions or support, please reach out to us on [Twitter](https://x.com/ordispritdotfun).  
+Currently, we do not provide email or other contact options. Join our waitlist via the app for updates.
 
 ## Installation 
 (Coming for developers)
+
+## License
+
+MIT # readme
