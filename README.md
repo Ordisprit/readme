@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ordisprit/readme/blob/main/6001223615493817973.jpg" width="300" alt="Ordisprit Logo">
+  <img src="https://pbs.twimg.com/profile_banners/1928924438835425280/1751725146/600x200" width="900" alt="Ordisprit Logo">
 </p>
 
 <h1 align="center">
